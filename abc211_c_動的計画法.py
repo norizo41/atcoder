@@ -1,5 +1,5 @@
 '''
-AtCoder Begginer Contest 211
+AtCoder Beginner Contest 211
 C - chokudai
 '''
 S = [''] + list(input())
